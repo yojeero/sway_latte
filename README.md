@@ -91,7 +91,8 @@ sway-git \
    grim \
    slurp \
    xdg-desktop-portal-wlr \
-   xdg-desktop-portal-gtk
+   xdg-desktop-portal-gtk \
+   nwg-look
 ```
 
 #### 4. Installing Pkgs
@@ -100,7 +101,6 @@ sway-git \
 paru -S \
 
 alacritty \
-   kitty \
    foot \
    micro \
    mousepad \
@@ -140,10 +140,6 @@ imv \
    rhythmbox \
    imagemagick \
    ffmpeg
-
-lxappearance \
-   glib2 \
-   gcolor3
 ```
 
 #### 5. Installing FISH
