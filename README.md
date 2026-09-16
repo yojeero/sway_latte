@@ -2,9 +2,7 @@
 
 Sway Dotfiles   
 
-`Arch`   
-
-:secret:   
+`Arch` 
 
 <br>
 
