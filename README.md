@@ -3,7 +3,7 @@
 
 # Sway `Arch` 
 
-## 2 modes
+### 2 modes
 
 > Waybar is visible > gaps in 40 > normal mode  
 > Waybar is hide > `super + g ` > gaps in 0 > working mode
@@ -140,7 +140,7 @@ fish \
 chsh -s $(command -v fish)
 ```
 
-## Home Structure
+### Home Structure
 
 ```text
 ~/
@@ -164,7 +164,7 @@ chsh -s $(command -v fish)
 
 > Create folder **Screen** for saving screenshots via grim.
 
-### Login TTY
+## Login TTY
 
 > ### Sway > use Bash or ZSH or FISH
 
