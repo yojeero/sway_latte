@@ -3,7 +3,7 @@
 
 # Sway `Arch` 
 
-### 2 modes
+## 2 modes
 
 > Waybar is visible > gaps in 40 > normal mode  
 > Waybar is hide > `super + g ` > gaps in 0 > working mode
@@ -21,7 +21,7 @@
 | **Viewer**                           | `imv`                     |
 | **Logout menu**                      | `wlogout`                 |
 
-#### Fonts / Theme
+### Fonts / Theme
 
 **Symbols Nerd Font** - icons, interface, development.  
 **JetBrains Mono** - system font and interface.
@@ -30,9 +30,9 @@
 **Zorin-Light** - Theme  
 **Gruvbox** - Icons
 
-### Installation
+## Installation
 
-#### 1. Boot to the Arch iso
+### 1. Boot to the Arch iso
 
 ```
 archinstall
@@ -40,7 +40,7 @@ archinstall
 on the step - profile - select > desktop > sway
 ```
 
-#### 2. After installing - Reboot and update system
+### 2. After installing - Reboot and update system
 
 ```
 sudo pacman -Syu
@@ -54,7 +54,7 @@ sudo pacman -S \
 > sudo systemctl enable --now seatd
 > sudo usermod -aG seat $USER
 
-#### 3. Installing Sway
+### 3. Installing Sway
 
 ```
 sudo pacman -S --needed base-devel git
@@ -81,7 +81,7 @@ sway-git \
    nwg-look
 ```
 
-#### 4. Installing Pkgs
+### 4. Installing Pkgs
 
 ```
 paru -S \
@@ -128,7 +128,7 @@ imv \
    ffmpeg
 ```
 
-#### 5. Installing FISH
+### 5. Installing FISH
 
 ```
 paru -S \
@@ -140,7 +140,7 @@ fish \
 chsh -s $(command -v fish)
 ```
 
-#### Home Structure
+## Home Structure
 
 ```text
 ~/
@@ -156,11 +156,11 @@ chsh -s $(command -v fish)
     └── foot/
 ```
 
-#### Used Dots, Icons, Themes, Wallpapers
+### Used Dots, Icons, Themes, Wallpapers
 
 > [yojeero/config_linux](https://github.com/yojeero/config_linux)
 
-#### Folder for screenshots
+### Folder for screenshots
 
 > Create folder **Screen** for saving screenshots via grim.
 
@@ -168,7 +168,7 @@ chsh -s $(command -v fish)
 
 > ### Sway > use Bash or ZSH or FISH
 
-#### .bash_profile
+### .bash_profile
 
 ```
 if [[ -z $DISPLAY && $XDG_VTNR -eq 1 ]]; then
@@ -176,7 +176,7 @@ if [[ -z $DISPLAY && $XDG_VTNR -eq 1 ]]; then
 fi
 ```
 
-#### .zprofile
+### .zprofile
 
 ```
 if [ -z "${DISPLAY}" ] && [ "${XDG_VTNR}" -eq 1 ]; then
@@ -184,7 +184,7 @@ if [ -z "${DISPLAY}" ] && [ "${XDG_VTNR}" -eq 1 ]; then
 fi
 ```
 
-#### config.fish
+### config.fish
 
 ```
 if status is-login
@@ -203,6 +203,6 @@ if status is-login
 end
 ```
 
-#### Login to Sway
+## Login to Sway
 
 > Arch Linux > login > pass
