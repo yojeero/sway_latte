@@ -1,5 +1,6 @@
-<img src="screen/1.png" alt="Preview" width="50%" max-width="800px"><img src="screen/2.png" alt="Preview" width="50%" max-width="800px">
-<img src="screen/3.png" alt="Preview" width="50%" max-width="800px"><img src="screen/4.png" alt="Preview" width="50%" max-width="800px">  
+<img src="screen/1.png" alt="Preview" width="50%"> <img src="screen/2.png" alt="Preview" width="50%">
+
+<img src="screen/3.png" alt="Preview" width="50%"> <img src="screen/4.png" alt="Preview" width="50%">
 
 <img src="https://img.shields.io/badge/Sway_Arch-7678ed?style=for-the-badge" height="40" alt="Sway Arch">
 
@@ -8,7 +9,7 @@
 > Waybar is visible > gaps in 40 > normal mode  
 > Waybar is hide > `super + g ` > gaps in 0 > working mode
 
-<img src="screen/5.png" alt="Preview" width="100%" max-width="800px">
+<img src="screen/5.png" alt="Preview" width="100%">
 
 | **Window Manager** <img width="60"/> | `sway` <img width="140"/> |
 | :----------------------------------- | :------------------------ |
