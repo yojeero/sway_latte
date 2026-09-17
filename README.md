@@ -3,8 +3,7 @@
 
 <img src="https://img.shields.io/badge/Sway_Arch-7678ed?style=for-the-badge" width="40%" alt="Sway Arch">   
 
-#### 2 modes    
-
+> [!TIP]
 > Waybar is visible > gaps in 40 > normal mode  
 > Waybar is hide > `super + g ` > gaps in 0 > working mode
 
@@ -28,7 +27,7 @@
 **Zorin-Light** - Theme  
 **Gruvbox** - Icons
 
-## :books: Installation
+### 🧼 Installation
 
 #### 1. Boot to the Arch iso
 
@@ -49,6 +48,7 @@ sudo pacman -S \
       polkit
 ```
 
+> [!IMPORTANT]
 > sudo systemctl enable --now seatd
 > sudo usermod -aG seat $USER
 
@@ -156,13 +156,15 @@ chsh -s $(command -v fish)
 
 #### Used Dots, Icons, Themes, Wallpapers
 
+> [!NOTE]
 > [yojeero/config_linux](https://github.com/yojeero/config_linux)
 
 #### Folder for screenshots
 
+> [!NOTE]
 > Create folder **Screen** for saving screenshots via grim.
 
-### :label: Login TTY
+### 🐧 Login TTY
 
 **Sway > use Bash or ZSH or FISH**
 
@@ -201,6 +203,7 @@ if status is-login
 end
 ```
    
-### :label: Login Sway   
+### 🐧 Login Sway   
 
+> [!TIP]
 > Arch Linux > login > pass
