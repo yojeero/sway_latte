@@ -30,7 +30,7 @@
 **Zorin-Light** - Theme  
 **Gruvbox** - Icons
 
-### $\color{brown}{\textsf{Installation}}$
+## $\color{#7678ed}{\textsf{Installation}}$
 
 #### 1. Boot to the Arch iso
 
@@ -164,7 +164,7 @@ chsh -s $(command -v fish)
 
 > Create folder **Screen** for saving screenshots via grim.
 
-> [!important] Login TTY
+## $\color{#7678ed}{\textsf{Login TTY}}$
 
 **Sway > use Bash or ZSH or FISH**
 
@@ -202,7 +202,7 @@ if status is-login
     end
 end
 ```
-
-> [!important] Login to Sway
+   
+## $\color{#7678ed}{\textsf{Login to Sway}}$
 
 > Arch Linux > login > pass
