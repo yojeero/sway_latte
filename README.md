@@ -1,7 +1,7 @@
 <img src="screen/1.png" alt="Preview" width="50%" max-width="800px"><img src="screen/2.png" alt="Preview" width="50%" max-width="800px">
-<img src="screen/3.png" alt="Preview" width="50%" max-width="800px"><img src="screen/4.png" alt="Preview" width="50%" max-width="800px">
+<img src="screen/3.png" alt="Preview" width="50%" max-width="800px"><img src="screen/4.png" alt="Preview" width="50%" max-width="800px">   
 
-## $\color{#104b9b}{\textsf{Sway_Arch}}$
+## $\color{#7678ed}{\textsf{Sway_Arch}}$
 
 #### 2 modes
 
