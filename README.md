@@ -30,7 +30,7 @@
 **Zorin-Light** - Theme  
 **Gruvbox** - Icons
 
-> [!important] Installation
+### $\color{brown}{\textsf{Installation}}$
 
 #### 1. Boot to the Arch iso
 
