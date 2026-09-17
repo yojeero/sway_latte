@@ -1,7 +1,7 @@
 <img src="screen/1.png" alt="Preview" width="50%" max-width="800px"><img src="screen/2.png" alt="Preview" width="50%" max-width="800px">
 <img src="screen/3.png" alt="Preview" width="50%" max-width="800px"><img src="screen/4.png" alt="Preview" width="50%" max-width="800px">  
 
-![](https://img.shields.io/badge/Sway_Arch-7678ed?style=for-the-badge)
+<img src="https://img.shields.io/badge/Sway_Arch-7678ed?style=for-the-badge" height="40">
 
 #### 2 modes
 
