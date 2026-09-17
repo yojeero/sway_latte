@@ -28,7 +28,7 @@
 **Zorin-Light** - Theme  
 **Gruvbox** - Icons
 
-## <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCI+PGNpcmNsZSBjeD0iNyIgY3k9IjciIHI9IjciIGZpbGw9IiM3Njc4ZWQiLz48L3N2Zz4=" height="14" alt=""> Installation
+## <img src="https://img.shields.io/badge/-●-7678ed?style=flat-square" height="16" alt="">   Installation
 
 #### 1. Boot to the Arch iso
 
@@ -162,7 +162,7 @@ chsh -s $(command -v fish)
 
 > Create folder **Screen** for saving screenshots via grim.
 
-### <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCI+PGNpcmNsZSBjeD0iNyIgY3k9IjciIHI9IjciIGZpbGw9IiM3Njc4ZWQiLz48L3N2Zz4=" height="14" alt=""> Login TTY
+### <img src="https://img.shields.io/badge/-●-7678ed?style=flat-square" height="16" alt="">  Login TTY
 
 **Sway > use Bash or ZSH or FISH**
 
@@ -201,6 +201,6 @@ if status is-login
 end
 ```
    
-### <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCI+PGNpcmNsZSBjeD0iNyIgY3k9IjciIHI9IjciIGZpbGw9IiM3Njc4ZWQiLz48L3N2Zz4=" height="14" alt=""> Login to Sway   
+### <img src="https://img.shields.io/badge/-●-7678ed?style=flat-square" height="16" alt=""> Login to Sway   
 
 > Arch Linux > login > pass
