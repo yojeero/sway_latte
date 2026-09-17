@@ -162,7 +162,7 @@ chsh -s $(command -v fish)
 
 > Create folder **Screen** for saving screenshots via grim.
 
-### :rocket: Login TTY
+### :card_index_dividers: Login TTY
 
 **Sway > use Bash or ZSH or FISH**
 
@@ -201,6 +201,6 @@ if status is-login
 end
 ```
    
-### :rocket: Login to Sway   
+### :card_index_dividers: Login to Sway   
 
 > Arch Linux > login > pass
