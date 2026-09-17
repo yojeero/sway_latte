@@ -1,7 +1,7 @@
 <img src="screen/1.png" alt="Preview" width="50%"><img src="screen/2.png" alt="Preview" width="50%">
 <img src="screen/3.png" alt="Preview" width="50%"><img src="screen/4.png" alt="Preview" width="50%">
 
-<img src="https://img.shields.io/badge/Sway_Arch-7678ed?style=for-the-badge" width="200" alt="Sway Arch">
+<img src="https://img.shields.io/badge/Sway_Arch-7678ed?style=for-the-badge" width="40%" alt="Sway Arch">
    
 #### 2 modes   
 
@@ -28,7 +28,7 @@
 **Zorin-Light** - Theme  
 **Gruvbox** - Icons
 
-## $\color{#7678ed}{\textsf{Installation}}$
+## <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCI+PGNpcmNsZSBjeD0iNyIgY3k9IjciIHI9IjciIGZpbGw9IiM3Njc4ZWQiLz48L3N2Zz4=" height="14" alt=""> Installation
 
 #### 1. Boot to the Arch iso
 
@@ -162,7 +162,7 @@ chsh -s $(command -v fish)
 
 > Create folder **Screen** for saving screenshots via grim.
 
-### $\color{#7678ed}{\textsf{Login TTY}}$
+### <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCI+PGNpcmNsZSBjeD0iNyIgY3k9IjciIHI9IjciIGZpbGw9IiM3Njc4ZWQiLz48L3N2Zz4=" height="14" alt=""> Login TTY
 
 **Sway > use Bash or ZSH or FISH**
 
@@ -201,6 +201,6 @@ if status is-login
 end
 ```
    
-### $\color{#7678ed}{\textsf{Login to Sway}}$
+### <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCI+PGNpcmNsZSBjeD0iNyIgY3k9IjciIHI9IjciIGZpbGw9IiM3Njc4ZWQiLz48L3N2Zz4=" height="14" alt=""> Login to Sway   
 
 > Arch Linux > login > pass
