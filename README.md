@@ -3,8 +3,6 @@
 
 <img src="https://img.shields.io/badge/Sway_Arch-7678ed?style=for-the-badge" height=40>
 
-<!-- ![](https://img.shields.io/badge/Sway_Arch-7678ed?style=for-the-badge) -->
-
 #### 2 modes
 
 > Waybar is visible > gaps in 40 > normal mode  
