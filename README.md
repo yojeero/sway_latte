@@ -126,7 +126,7 @@ imv \
    ffmpeg
 ```
 
-### 5. Installing FISH
+#### 5. Installing FISH
 
 ```
 paru -S \
@@ -166,7 +166,8 @@ chsh -s $(command -v fish)
 
 ### 🐧 Login TTY
 
-**Sway > use Bash or ZSH or FISH**
+> [!NOTE]
+> Sway > use Bash or ZSH or FISH
 
 #### .bash_profile
 
