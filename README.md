@@ -28,7 +28,7 @@
 **Zorin-Light** - Theme  
 **Gruvbox** - Icons
 
-## :books:  Installation
+## :toolbox:  Installation
 
 #### 1. Boot to the Arch iso
 
@@ -162,7 +162,7 @@ chsh -s $(command -v fish)
 
 > Create folder **Screen** for saving screenshots via grim.
 
-### :label: Login via TTY
+### :lock: Login via TTY
 
 **Sway > use Bash or ZSH or FISH**
 
@@ -201,6 +201,6 @@ if status is-login
 end
 ```
    
-### :label: Login to the Sway   
+### :lock: Login to the Sway   
 
 > Arch Linux > login > pass
