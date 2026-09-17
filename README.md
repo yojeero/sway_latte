@@ -1,7 +1,7 @@
 <img src="screen/1.png" alt="Preview" width="50%" max-width="800px"><img src="screen/2.png" alt="Preview" width="50%" max-width="800px">
 <img src="screen/3.png" alt="Preview" width="50%" max-width="800px"><img src="screen/4.png" alt="Preview" width="50%" max-width="800px">   
 
-<h3 style="color: purple">Sway_Arch</h3>
+<code style="color: purple">Sway_Arch</code>
 
 #### 2 modes
 
