@@ -28,7 +28,7 @@
 **Zorin-Light** - Theme  
 **Gruvbox** - Icons
 
-## <img src="https://img.shields.io/badge/-●-7678ed?style=flat-square" height="16" alt="">   Installation
+## :books:  Installation
 
 #### 1. Boot to the Arch iso
 
@@ -162,7 +162,7 @@ chsh -s $(command -v fish)
 
 > Create folder **Screen** for saving screenshots via grim.
 
-### <img src="https://img.shields.io/badge/-●-7678ed?style=flat-square" height="16" alt="">  Login TTY
+### :rocket: Login TTY
 
 **Sway > use Bash or ZSH or FISH**
 
@@ -201,6 +201,6 @@ if status is-login
 end
 ```
    
-### <img src="https://img.shields.io/badge/-●-7678ed?style=flat-square" height="16" alt=""> Login to Sway   
+### :rocket: Login to Sway   
 
 > Arch Linux > login > pass
