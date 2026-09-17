@@ -164,7 +164,7 @@ chsh -s $(command -v fish)
 
 > Create folder **Screen** for saving screenshots via grim.
 
-## $\color{#7678ed}{\textsf{Login TTY}}$
+### $\color{#7678ed}{\textsf{Login TTY}}$
 
 **Sway > use Bash or ZSH or FISH**
 
@@ -203,6 +203,6 @@ if status is-login
 end
 ```
    
-## $\color{#7678ed}{\textsf{Login to Sway}}$
+### $\color{#7678ed}{\textsf{Login to Sway}}$
 
 > Arch Linux > login > pass
