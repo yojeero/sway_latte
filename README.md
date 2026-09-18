@@ -7,7 +7,7 @@
 > Waybar is visible > gaps in 40 > normal mode  
 > Waybar is hide > `super + g ` > gaps in 0 > working mode
 
-| **Window Manager** <img width="60"/> | `sway` <img width="140"/> |
+| **Window Manager** <img width="20"/> | `sway` <img width="60"/> |
 | :----------------------------------- | :------------------------ |
 | **Status bar**                       | `waybar`                  |
 | **Terminal**                         | `foot`                    |
